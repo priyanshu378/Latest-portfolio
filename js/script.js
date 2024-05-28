@@ -45,7 +45,7 @@ darkmode.onclick = () => {
 };
 //Typing Speeed
 // Array of professions
-let professions = ["Software Developer", "Frontend Developer", "Web Developer", "Backend Developer", "Process Analyst"];
+let professions = ["Software Developer", "Frontend Developer", "Web Developer", "Backend Developer", "Data Analyst"];
 
 // Prepend "A common" to each profession
 let stringsWithCommon = professions.map(profession => "A "+"" + profession);
